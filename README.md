@@ -7,4 +7,4 @@ Also uses text data pulled from Twitter and Reddit to diversify results.
 
 
 ### Sample Output
-![Predicted Sentiment](images/output.png)
+![Predicted Sentiment](images/Output.png)
