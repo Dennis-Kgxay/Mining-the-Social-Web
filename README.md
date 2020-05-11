@@ -1,2 +1,3 @@
 # Mining-the-Social-Web
-Pulls textual data of several posts from social networks and determines the sentiment of these posts.
+Pulls textual data of several posts made on Tumblr's network, and determines the sentiment of these posts.
+Also uses text data pulled from Twitter and Reddit to diversify results.
