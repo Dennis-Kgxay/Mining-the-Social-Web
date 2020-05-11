@@ -8,4 +8,4 @@ Also uses text data pulled from Twitter and Reddit to diversify results.
 
 ### Sample Output
 
-![Predicted-Sentiments](Output.png)
+![Predicted-Sentiments](https://github.com/Dennis-Kgxay/Mining-the-Social-Web/blob/master/images/Ouput.png)
