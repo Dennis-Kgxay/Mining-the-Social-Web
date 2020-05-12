@@ -5,7 +5,7 @@
 ### Introduction
 This application pulls the textual data of several posts made on Tumblr's network, and determines the sentiment of these posts as being either negative, neutral, or positive via Natural Language Processing (NLP) techniques and Random Forest Classification.
 
-It also uses other text data pulled using the APIs of Twitter and Reddit; which is not being shown here because this application is only a portion of a larger project.
+It also uses other text data pulled using the APIs of Twitter and Reddit; which is not shown in this code because this application is only a portion of a larger project.
 
 
 ### Purpose of this application
