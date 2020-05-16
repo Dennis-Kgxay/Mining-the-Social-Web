@@ -37,6 +37,6 @@ Permission to use their API must be given directly from Tumblr in the form of ac
 
 - After training the classifier model with the predefined data, the classifier model is used on the post vectors of the pulled data from Tumblr, Twitter, and Reddit.
 
-### 4. Sample output
+### 4. Sample output / Predicted Sentiments
 
 ![Predicted-Sentiments](https://github.com/Dennis-Kgxay/Mining-the-Social-Web/blob/master/images/Ouput.png)
